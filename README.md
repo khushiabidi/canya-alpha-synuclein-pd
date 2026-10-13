@@ -48,6 +48,7 @@ Results
 CANYA correctly predicted the direction of change in aggregation for 5 of 7 variants (71%).
 
 | Variant | Δ Mean  | Max Δ   | % Windows ↑ | Peak Position | Literature    | Match |
+| --- | --- | --- | --- | --- | --- | --- |
 | A53V    | +0.0126 | +0.0234 |     95%     |      46       | ↑ accelerates |  Yes  |
 | A53T    | +0.0020 | +0.0046 |     85%     |      35       | ↑ accelerates |  Yes  |
 | H50Q    | −0.0021 | +0.0026 |     15%     |      49       | ↑ accelerates |   No  |
