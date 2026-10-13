@@ -7,7 +7,7 @@ CANYA (Convolution Attention Network for amYloid Aggregation) is a hybrid CNN-at
 Vecura (NYB.AI) is the platform that runs CANYA. It hosts 200+ computational biology models and charges per token.
 
 Repository Structure
-...
+```
 canya-alpha-synuclein-pd/
 ├── README.md
 ├── data/
@@ -22,8 +22,7 @@ canya-alpha-synuclein-pd/
 │   └── canya_visualization.R
 └── figures/
     └── canya_pd_variants.png
-...    
-
+```
 Each data/ file has three columns: window, WT_score, mutant_score. The R script reads from these files and produces the figures.
 
 Methods & How to Run
